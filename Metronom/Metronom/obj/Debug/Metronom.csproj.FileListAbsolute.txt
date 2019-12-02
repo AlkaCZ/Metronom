@@ -1,0 +1,7 @@
+D:\PVA\PVA - 3. Ročník\Metronom\Metronom\bin\Debug\Metronom.exe.config
+D:\PVA\PVA - 3. Ročník\Metronom\Metronom\bin\Debug\Metronom.exe
+D:\PVA\PVA - 3. Ročník\Metronom\Metronom\bin\Debug\Metronom.pdb
+D:\PVA\PVA - 3. Ročník\Metronom\Metronom\obj\Debug\Metronom.csprojAssemblyReference.cache
+D:\PVA\PVA - 3. Ročník\Metronom\Metronom\obj\Debug\Metronom.csproj.CoreCompileInputs.cache
+D:\PVA\PVA - 3. Ročník\Metronom\Metronom\obj\Debug\Metronom.exe
+D:\PVA\PVA - 3. Ročník\Metronom\Metronom\obj\Debug\Metronom.pdb
